@@ -1,0 +1,2 @@
+# ThreadingCounter
+This program uses threads to add random numbers in a range to a list and does not allow duplicates. As the list randomly selects numbers it checks this list, adds if the number is not on the list, then moves to the next number until the range is fulfilled. The output can be modified by uncommenting some of the code and reveals some of the underlying thread processing in the program. 
